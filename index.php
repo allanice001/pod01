@@ -1,4 +1,4 @@
 <?php
     print_r($_GET);
-    echo "changes again!";
+    echo "changes thrice";
 ?>
